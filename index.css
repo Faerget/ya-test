@@ -913,8 +913,12 @@ button {
         &:first-child{
             padding-top: 3rem;
         }
+        &:last-child{
+            padding-bottom: 4.75rem;
+        }
         padding-top: 3.75rem;
         padding-bottom: 3.75rem;
+        
     }
     header {
         top: 0.75rem;
